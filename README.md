@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=001524&height=200&section=header&text=LAPORSIS!&fontSize=70&animation=fadeIn&fontColor=ffffff" />
-</p>
-
-<p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   </a>
